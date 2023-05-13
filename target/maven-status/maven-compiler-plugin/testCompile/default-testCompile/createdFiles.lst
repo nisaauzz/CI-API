@@ -1,0 +1,7 @@
+starter\stepdefinitions\UserInfoSteps.class
+starter\CucumberTestSuite.class
+starter\stepdefinitions\CreateLoginSteps.class
+starter\pages\CreateLoginPage.class
+starter\pages\UserInfoPage.class
+starter\stepdefinitions\RegisterSteps.class
+starter\pages\RegisterPage.class

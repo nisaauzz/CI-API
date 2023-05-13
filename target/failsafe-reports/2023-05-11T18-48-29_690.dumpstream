@@ -1,0 +1,4 @@
+# Created at 2023-05-11T18:49:18.274
+Boot Manifest-JAR contains absolute paths in classpath 'E:\MiniProjectbyNisa\Auth-API\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
